@@ -1,1 +1,1 @@
-# odin-recipes
+demonstration of HTML and CSS skills
